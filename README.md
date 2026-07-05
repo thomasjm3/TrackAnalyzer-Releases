@@ -58,7 +58,14 @@ The application is digitally signed with an Apple Developer ID and notarized by 
 
 ## Screenshots
 
-*Screenshots will be added here.*
+Main Map Window showing a selected track in Mountaineering Mode.
+<img width="1398" height="874" alt="Screenshot 2026-07-05 at 11 46 21 AM" src="https://github.com/user-attachments/assets/f1eaa912-0e7d-48e6-ad7e-de9996fffed7" />
+
+Elevation Plot showing a selected data point and smoothing curve.  Drag the point to change the elevation of that point.
+<img width="1090" height="671" alt="Screenshot 2026-07-05 at 11 56 30 AM" src="https://github.com/user-attachments/assets/b3f98cc4-7dc8-4fa1-bf3a-0e5c2c2a8cc6" />
+
+Click on a point on the Main Map and drag to change a location.
+<img width="1354" height="815" alt="Screenshot 2026-07-05 at 12 05 48 PM" src="https://github.com/user-attachments/assets/3a5fa1a9-d576-4f91-9ffc-42e97c312d24" />
 
 ---
 
