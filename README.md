@@ -2,7 +2,7 @@
 
 **TrackAnalyzer** is a native macOS application for hikers, backpackers, climbers, and outdoor enthusiasts who want to analyze GPS tracks in greater detail than is available in many mapping applications.
 
-TrackAnalyzer imports GPX track files and calculates detailed hiking statistics, making it easy to understand how your trip was completed—not just where you went.
+TrackAnalyzer imports GPX track files and calculates detailed statistics.  Map points can be edited on the main map and elevation can be edited directly from the Elevation Plot.
 
 ---
 
